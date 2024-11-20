@@ -1,0 +1,21 @@
+Create a database for a family
+Create a table for the family members with name, surname, date_of_birth, id (autoincremented primary key) (your family)
+Create a table that lists different fruit types (varchar for fruit name), id
+Create a table that has the number of pieces of fruit each family member ate in a month (family_id, fruit_id, number_eaten, date_eaten)
+
+Populate these tables with information from your family (insert)
+
+SHOw how to update a person's name if there is a spelling mistake (update)
+
+Show how to delete a person from the family_member tables
+
+
+Create a select on the fruit table that lists all fruits in the table
+Create a select on the family table that lists all family members
+Create a select on the family_id table that joins to the fruit table so that it can show each piece of fruit a family member eats (like joining clients table to invoices table)
+
+
+
+Explain what a database index is and what it is used for 
+Explain what a primary key is
+
